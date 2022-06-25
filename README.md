@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TA-luSOfero, i'm a lawyer, interest in technology 
+- 👋 Hi, I’m @TA-luSOfero. I'm a lawyer interested in technology 
 - 👀 I’m interested in programing, general
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on everything that i can help
